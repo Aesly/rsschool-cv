@@ -6,6 +6,10 @@
 ## <b>Contacts</b>
 
 - **Mobile phone:** +375 (33) 316 99 24 
+- **E-mail:** dikdamned@gmail.com
+- **LinkedIn:** [Vladislav Kurchanov](https://www.linkedin.com/in/vladislav-kurchanov/)
+- **Telegram:** [@Aesly](https://t.me/Aesly) 
+- **Github:** [Vladislav Kurchanov](https://github.com/Aesly)
 
 ## <b>About me</b>
 I'm strongly motivated, hard-worker person. 
