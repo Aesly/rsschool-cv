@@ -20,7 +20,8 @@ I'm also a team player, I can find common language with almost everyone. I striv
 At the previous place of work was a car sales company.<br> My duties: sales manager, SMM, marketing. 
 
 ## <b>Work experience</b>
-LTD "New Motros Company" sales manager, SMM, marketing.
+LTD "New Motros Company" sales manager, SMM, marketing, business communication with foreign partners.
+
 
 ## <b>Education</b>
 Belarusian State University of Informatics and Radioelectronics (BSUIR) <br>
