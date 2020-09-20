@@ -1,0 +1,49 @@
+html {
+  font-family: Roboto, sans-serif;
+  color: #585a5a;
+  --primary-color: #0992d1;
+  background-color: aliceblue;
+}
+.profile__img img {
+  float: right;
+  border-radius: 100px;
+  width: 30%;
+  height: 350px;
+}
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+h3 {
+  color: var(--primary-color);
+}
+a {
+  color: var(--primary-color);
+}
+
+section {
+  margin-bottom: 3em;
+  position: relative;
+}
+
+.cv {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.contacts {
+  margin-bottom: 2em;
+}
+
+.contact {
+  display: flex;
+}
+.contact__type {
+  min-width: 120px;
+}
